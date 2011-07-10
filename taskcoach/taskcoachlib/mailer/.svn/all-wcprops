@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/taskcoach/!svn/ver/4485/branches/Release1_2_Branch/taskcoach/taskcoachlib/mailer
+END
+thunderbird.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/taskcoach/!svn/ver/4479/branches/Release1_2_Branch/taskcoach/taskcoachlib/mailer/thunderbird.py
+END
+outlook.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/taskcoach/!svn/ver/4185/branches/Release1_2_Branch/taskcoach/taskcoachlib/mailer/outlook.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/taskcoach/!svn/ver/4485/branches/Release1_2_Branch/taskcoach/taskcoachlib/mailer/__init__.py
+END
+macmail.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/mailer/macmail.py
+END

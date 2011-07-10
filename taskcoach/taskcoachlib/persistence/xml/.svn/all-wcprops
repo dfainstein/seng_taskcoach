@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/taskcoach/!svn/ver/4488/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/xml
+END
+writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/taskcoach/!svn/ver/4481/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/xml/writer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/xml/__init__.py
+END
+reader.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/taskcoach/!svn/ver/4488/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/xml/reader.py
+END

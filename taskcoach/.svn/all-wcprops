@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/taskcoach/!svn/ver/4501/branches/Release1_2_Branch/taskcoach
+END
+.pylintrc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/.pylintrc
+END
+HACKING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/HACKING.txt
+END
+PUBLICITY.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/PUBLICITY.txt
+END
+make.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/taskcoach/!svn/ver/4313/branches/Release1_2_Branch/taskcoach/make.py
+END
+TODO.tsk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/TODO.tsk
+END
+COPYRIGHT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/taskcoach/!svn/ver/4304/branches/Release1_2_Branch/taskcoach/COPYRIGHT.txt
+END
+taskcoach.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/taskcoach/!svn/ver/4259/branches/Release1_2_Branch/taskcoach/taskcoach.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/taskcoach/!svn/ver/4375/branches/Release1_2_Branch/taskcoach/setup.py
+END
+release.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/taskcoach/!svn/ver/4373/branches/Release1_2_Branch/taskcoach/release.py
+END
+nuke.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/nuke.py
+END
+dot.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/dot.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/taskcoach/!svn/ver/4417/branches/Release1_2_Branch/taskcoach/Makefile
+END
+taskcoach.pyw
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoach.pyw
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/taskcoach/!svn/ver/4330/branches/Release1_2_Branch/taskcoach/taskcoachlib/powermgt
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/powermgt/base.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/powermgt/__init__.py
+END
+macos.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/powermgt/macos.py
+END
+win32.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/powermgt/win32.py
+END
+xsm.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/taskcoach/!svn/ver/4330/branches/Release1_2_Branch/taskcoach/taskcoachlib/powermgt/xsm.py
+END

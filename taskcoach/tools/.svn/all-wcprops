@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tools
+END
+img2img.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/tools/img2img.py
+END
+latest.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tools/latest.py
+END
+pygettext.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/tools/pygettext.py
+END
+webchecker.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/tools/webchecker.py
+END
+img2py.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/taskcoach/!svn/ver/3612/branches/Release1_2_Branch/taskcoach/tools/img2py.py
+END

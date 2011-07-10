@@ -1,0 +1,89 @@
+10
+
+dir
+4501
+https://taskcoach.svn.sourceforge.net/svnroot/taskcoach/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain
+https://taskcoach.svn.sourceforge.net/svnroot/taskcoach
+
+
+
+2011-06-30T22:30:26.244095Z
+4489
+fniessink
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+648457a2-254a-0410-87ef-a9f7caebb725
+
+task
+dir
+
+attribute
+dir
+
+effort
+dir
+
+note
+dir
+
+__init__.py
+file
+
+
+
+
+2011-07-05T04:38:41.000000Z
+fe64a848319f0182fcb81e3f98b97282
+2010-12-31T15:37:16.812638Z
+3892
+fniessink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+831
+
+attachment
+dir
+
+base
+dir
+
+categorizable
+dir
+
+category
+dir
+
+date
+dir
+

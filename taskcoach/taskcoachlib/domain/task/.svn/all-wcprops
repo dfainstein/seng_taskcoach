@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/taskcoach/!svn/ver/4487/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/task
+END
+sorter.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/task/sorter.py
+END
+tasklist.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/taskcoach/!svn/ver/4031/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/task/tasklist.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/task/__init__.py
+END
+task.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/4487/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/task/task.py
+END
+filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/taskcoach/!svn/ver/4399/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/task/filter.py
+END

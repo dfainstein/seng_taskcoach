@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/thirdPartySoftwareTests
+END
+LockFileTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/thirdPartySoftwareTests/LockFileTest.py
+END
+DesktopTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/thirdPartySoftwareTests/DesktopTest.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/thirdPartySoftwareTests/__init__.py
+END
+wxPythonTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/thirdPartySoftwareTests/wxPythonTest.py
+END

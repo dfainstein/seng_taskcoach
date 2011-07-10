@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/taskcoach/!svn/ver/4490/branches/Release1_2_Branch/taskcoach/taskcoachlib/config
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/config/options.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/config/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/taskcoach/!svn/ver/4350/branches/Release1_2_Branch/taskcoach/taskcoachlib/config/settings.py
+END
+defaults.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/taskcoach/!svn/ver/4490/branches/Release1_2_Branch/taskcoach/taskcoachlib/config/defaults.py
+END

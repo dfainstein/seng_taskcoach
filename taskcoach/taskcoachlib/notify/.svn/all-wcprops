@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/taskcoach/!svn/ver/3971/branches/Release1_2_Branch/taskcoach/taskcoachlib/notify
+END
+notifier_windows.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/notify/notifier_windows.py
+END
+notifier_libnotify.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/taskcoach/!svn/ver/3971/branches/Release1_2_Branch/taskcoach/taskcoachlib/notify/notifier_libnotify.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/notify/__init__.py
+END
+notifier.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/notify/notifier.py
+END
+snarl.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/taskcoachlib/notify/snarl.py
+END
+notifier_macos.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/notify/notifier_macos.py
+END
+notifier_knotify.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/notify/notifier_knotify.py
+END
+notifier_universal.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/taskcoach/!svn/ver/3971/branches/Release1_2_Branch/taskcoach/taskcoachlib/notify/notifier_universal.py
+END

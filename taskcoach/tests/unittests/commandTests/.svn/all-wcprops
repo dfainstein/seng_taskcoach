@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/taskcoach/!svn/ver/4399/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests
+END
+CommandTestCase.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests/CommandTestCase.py
+END
+BaseCommandsTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/taskcoach/!svn/ver/4399/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests/BaseCommandsTest.py
+END
+CategorizableCommandsTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests/CategorizableCommandsTest.py
+END
+CategoryCommandsTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests/CategoryCommandsTest.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests/__init__.py
+END
+CutCopyPasteTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/taskcoach/!svn/ver/4076/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests/CutCopyPasteTest.py
+END
+NoteCommandTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests/NoteCommandTest.py
+END
+TaskCommandsTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/taskcoach/!svn/ver/4029/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests/TaskCommandsTest.py
+END
+EffortCommandsTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/taskcoach/!svn/ver/4289/branches/Release1_2_Branch/taskcoach/tests/unittests/commandTests/EffortCommandsTest.py
+END

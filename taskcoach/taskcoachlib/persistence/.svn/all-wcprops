@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/taskcoach/!svn/ver/4488/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence
+END
+autosaver.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/autosaver.py
+END
+sessiontempfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/sessiontempfile.py
+END
+autobackup.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/taskcoach/!svn/ver/4108/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/autobackup.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/taskcoach/!svn/ver/4021/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/__init__.py
+END
+taskfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/taskcoach/!svn/ver/4182/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/taskfile.py
+END
+templatelist.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/taskcoach/!svn/ver/4389/branches/Release1_2_Branch/taskcoach/taskcoachlib/persistence/templatelist.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/dist.in
+END
+Microsoft.VC90.CRT.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/taskcoach/!svn/ver/3888/branches/Release1_2_Branch/taskcoach/dist.in/Microsoft.VC90.CRT.manifest
+END
+gdiplus.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/dist.in/gdiplus.dll
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/dist.in/README.txt
+END
+msvcp90.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/taskcoach/!svn/ver/3885/branches/Release1_2_Branch/taskcoach/dist.in/msvcp90.dll
+END
+msvcr90.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/taskcoach/!svn/ver/3888/branches/Release1_2_Branch/taskcoach/dist.in/msvcr90.dll
+END

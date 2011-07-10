@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/taskcoach/!svn/ver/4398/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui
+END
+aui_utilities.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/aui_utilities.py
+END
+auibook.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/taskcoach/!svn/ver/4398/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/auibook.py
+END
+aui_constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/taskcoach/!svn/ver/3964/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/aui_constants.py
+END
+tabart.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/taskcoach/!svn/ver/3964/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/tabart.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/taskcoach/!svn/ver/4398/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/__init__.py
+END
+tabmdi.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/tabmdi.py
+END
+auibar.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/taskcoach/!svn/ver/3939/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/auibar.py
+END
+framemanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/taskcoach/!svn/ver/4398/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/framemanager.py
+END
+aui_switcherdialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/aui_switcherdialog.py
+END
+dockart.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/taskcoach/!svn/ver/3964/branches/Release1_2_Branch/taskcoach/taskcoachlib/thirdparty/aui/dockart.py
+END

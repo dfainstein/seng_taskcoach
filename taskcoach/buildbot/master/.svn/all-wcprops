@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildbot/master
+END
+_dumbwin32proc.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/buildbot/master/_dumbwin32proc.py
+END
+master.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildbot/master/master.cfg
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildbot/master/index.html
+END
+buildbot.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/buildbot/master/buildbot.css
+END
+tcbuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildbot/master/tcbuild.py
+END
+cleanup.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildbot/master/cleanup.py
+END

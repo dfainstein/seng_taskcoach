@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/taskcoach/!svn/ver/4483/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets
+END
+ultimatetreectrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/ultimatetreectrl.py
+END
+frame.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/taskcoach/!svn/ver/4402/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/frame.py
+END
+searchctrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/taskcoach/!svn/ver/3950/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/searchctrl.py
+END
+tooltip.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/taskcoach/!svn/ver/4483/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/tooltip.py
+END
+syncmlwarning.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/syncmlwarning.py
+END
+spinctrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/4399/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/spinctrl.py
+END
+squaremap.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/squaremap.py
+END
+dialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/taskcoach/!svn/ver/4306/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/dialog.py
+END
+calendarconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/taskcoach/!svn/ver/4384/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/calendarconfig.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/4423/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/__init__.py
+END
+panel.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/panel.py
+END
+listctrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/3919/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/listctrl.py
+END
+dirchooser.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/dirchooser.py
+END
+conflict.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/conflict.py
+END
+datectrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/4451/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/datectrl.py
+END
+masked.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/taskcoach/!svn/ver/4409/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/masked.py
+END
+fontpicker.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/fontpicker.py
+END
+timeline.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/timeline.py
+END
+autowidth.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/taskcoach/!svn/ver/4255/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/autowidth.py
+END
+textctrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/4058/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/textctrl.py
+END
+calendarwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/taskcoach/!svn/ver/4384/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/calendarwidget.py
+END
+colorselect.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/colorselect.py
+END
+notebook.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/4306/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/notebook.py
+END
+itemctrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/4409/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/itemctrl.py
+END
+buttonbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/buttonbox.py
+END
+treectrl.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/4436/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/treectrl.py
+END
+draganddrop.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/taskcoach/!svn/ver/4467/branches/Release1_2_Branch/taskcoach/taskcoachlib/widgets/draganddrop.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/taskcoach/!svn/ver/4489/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/date
+END
+timedelta.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/taskcoach/!svn/ver/4489/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/date/timedelta.py
+END
+clock.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/taskcoach/!svn/ver/4212/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/date/clock.py
+END
+date.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/date/date.py
+END
+recurrence.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/date/recurrence.py
+END
+snooze.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/date/snooze.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/taskcoach/!svn/ver/4212/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/date/__init__.py
+END
+dateandtime.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/taskcoach/!svn/ver/4026/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/date/dateandtime.py
+END
+timeclass.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/taskcoachlib/domain/date/timeclass.py
+END

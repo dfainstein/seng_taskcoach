@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/taskcoach/!svn/ver/4497/branches/Release1_2_Branch/taskcoach/changes.in
+END
+changes.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/taskcoach/!svn/ver/4497/branches/Release1_2_Branch/taskcoach/changes.in/changes.py
+END
+changetypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/changes.in/changetypes.py
+END
+make.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/taskcoach/!svn/ver/4290/branches/Release1_2_Branch/taskcoach/changes.in/make.py
+END
+converter.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/taskcoach/!svn/ver/4290/branches/Release1_2_Branch/taskcoach/changes.in/converter.py
+END

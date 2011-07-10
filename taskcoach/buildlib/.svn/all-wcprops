@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/taskcoach/!svn/ver/4290/branches/Release1_2_Branch/taskcoach/buildlib
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildlib/__init__.py
+END
+bdist_deb.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/taskcoach/!svn/ver/4290/branches/Release1_2_Branch/taskcoach/buildlib/bdist_deb.py
+END
+bdist_portableapps.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildlib/bdist_portableapps.py
+END
+clean.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildlib/clean.py
+END
+bdist_rpm_fedora.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildlib/bdist_rpm_fedora.py
+END
+bdist_rpm_opensuse.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildlib/bdist_rpm_opensuse.py
+END
+bdist_winpenpack.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildlib/bdist_winpenpack.py
+END
+bdist_portable_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/taskcoach/!svn/ver/3892/branches/Release1_2_Branch/taskcoach/buildlib/bdist_portable_base.py
+END

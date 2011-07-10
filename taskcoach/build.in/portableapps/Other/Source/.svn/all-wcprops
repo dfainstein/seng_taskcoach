@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/taskcoach/!svn/ver/3631/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source
+END
+AppSource.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/AppSource.txt
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/License.txt
+END
+TaskCoachPortable.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/TaskCoachPortable.nsi
+END
+PortableApps.comInstallerConfig.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/PortableApps.comInstallerConfig.nsh
+END
+ReplaceInFileWithTextReplace.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/ReplaceInFileWithTextReplace.nsh
+END
+TaskCoachPortable.ini
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/TaskCoachPortable.ini
+END
+TaskCoachPortable.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/taskcoach/!svn/ver/3631/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/TaskCoachPortable.jpg
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/Readme.txt
+END
+ReadINIStrWithDefault.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/ReadINIStrWithDefault.nsh
+END
+PortableApps.comLauncherLANG_ENGLISH.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/taskcoach/!svn/ver/3574/branches/Release1_2_Branch/taskcoach/build.in/portableapps/Other/Source/PortableApps.comLauncherLANG_ENGLISH.nsh
+END
